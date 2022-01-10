@@ -1,7 +1,7 @@
 # My-World
 Çocuklar İçin El Göz Beyin Koordinasyon Geliştirme Oyunu
 
-Genel Bilgiler
+# Genel Bilgiler
 
 Proje Unity kullanılarak oluşturulmuştur. 
 

@@ -3,4 +3,8 @@
 
 Genel Bilgiler
 
-Proje Unity kullanılarak oluşturulmuştur. Kodlar C# ile yazılmıştır. Modeller Blender3D ile tasarlanmıştır.
+Proje Unity kullanılarak oluşturulmuştur. 
+
+Kodlar C# ile yazılmıştır. 
+
+Modeller Blender3D ile tasarlanmıştır.
